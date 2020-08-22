@@ -1,4 +1,3 @@
-
 # Supernatural Jam 2020
 
 ## Intro
@@ -55,7 +54,9 @@ Without further delay, please check out everyone's wonderful creations!
 
 ### [Transforming dreams (I guess?)(idk)](https://alphanaxx.itch.io/transforming-dreams) (by Alphanaxx)
 
-### [Null and Void](https://devwerewolf.itch.io/null-and-void-sjam) (by WerewolfDev)
+### [Hangman](https://repl.it/repls/OutlandishRoastedMethod#main.py) (by Sargentj5)
+
+### [Null and Void (concept)](https://devwerewolf.itch.io/null-and-void-sjam) (by WerewolfDev)
 
 ## Conclusion
 
